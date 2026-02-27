@@ -6,9 +6,9 @@ output: html_document
 kvbnsdaba;vsdjvhaso;voanwe
 
 ```{r}
-
+blas bloop a doop
 ```
-
+oooh yeaaahhh
 bla bla bla time for the next thing
 
 ```{r}
