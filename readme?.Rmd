@@ -1,0 +1,22 @@
+---
+title: "readme?"
+output: html_document
+---
+
+kvbnsdaba;vsdjvhaso;voanwe
+
+```{r}
+
+```
+
+bla bla bla time for the next thing
+
+```{r}
+ggplot()
+```
+
+```{r}
+table()
+
+summary()
+```
